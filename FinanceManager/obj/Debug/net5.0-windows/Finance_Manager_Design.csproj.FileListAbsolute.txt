@@ -1,0 +1,11 @@
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Finance_Manager_Design.csproj.AssemblyReference.cache
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Add_Category.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Add_Money.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Add_Money_To_Category.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Add_Purse.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Calendar.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Select_Sort.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Finance_Manager_Design_MarkupCompile.cache
+C:\Users\qwerty\source\repos\FinanceManager\FinanceManager\obj\Debug\net5.0-windows\Finance_Manager_Design_MarkupCompile.lref

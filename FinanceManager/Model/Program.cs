@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FinanceManager
+namespace _Mvvm
 {
-    class Program
+    class ViewModel
     {
         static void Main(string[] args)
         {
